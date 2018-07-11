@@ -1,0 +1,6 @@
+framework module Pods_ElderlyAssistant {
+  umbrella header "Pods-ElderlyAssistant-umbrella.h"
+
+  export *
+  module * { export * }
+}

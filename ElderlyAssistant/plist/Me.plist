@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>image</key>
+		<string>calendar.png</string>
+		<key>name</key>
+		<string>黄历查看</string>
+		<key>link</key>
+		<string>https://nongli.911cha.com/</string>
+	</dict>
+	<dict>
+		<key>image</key>
+		<string>fork-knife.png</string>
+		<key>name</key>
+		<string>营养搭配</string>
+		<key>link</key>
+		<string>http://m.39.net/oldman/</string>
+	</dict>
+	<dict>
+		<key>image</key>
+		<string>5.png</string>
+		<key>name</key>
+		<string>在线咨询</string>
+		<key>link</key>
+		<string>https://www.120ask.com/</string>
+	</dict>
+	<dict>
+		<key>image</key>
+		<string>2.png</string>
+		<key>name</key>
+		<string>广场舞</string>
+		<key>link</key>
+		<string>http://www.999d.com/</string>
+	</dict>
+	<dict>
+		<key>image</key>
+		<string>music.png</string>
+		<key>name</key>
+		<string>经典老歌</string>
+		<key>link</key>
+		<string>http://www.9ku.com/laoge/500shou.htm</string>
+	</dict>
+</array>
+</plist>
